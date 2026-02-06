@@ -1,0 +1,22 @@
+# Environment variables
+.env
+.env.*
+
+# Secrets (Google keys, API credentials)
+*.json
+!data/**/*.json
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Database
+*.db
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db

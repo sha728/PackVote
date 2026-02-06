@@ -1,0 +1,12 @@
+fastapi==0.109.0
+uvicorn==0.27.0
+sqlalchemy==2.0.25
+pydantic==2.5.3
+pydantic-settings==2.1.0
+python-dotenv==1.0.0
+requests==2.31.0
+google-generativeai==0.3.2
+openmeteo-requests==1.2.0
+requests-cache==1.1.1
+retry-requests==2.0.0
+# googlemaps # If used directly, else requests is fine

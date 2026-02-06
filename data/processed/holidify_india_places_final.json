@@ -1,0 +1,702 @@
+[
+  {
+    "name":"Munnar",
+    "best_time":"September to May",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/munnar\/",
+    "state":"Kerala"
+  },
+  {
+    "name":"Gangtok",
+    "best_time":"Throughout the year",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/gangtok\/",
+    "state":"Sikkim"
+  },
+  {
+    "name":"Kashmir",
+    "best_time":"September - November; March - May",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/kashmir\/",
+    "state":"Jammu and Kashmir (UT)"
+  },
+  {
+    "name":"Manali",
+    "best_time":"October to June",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/manali\/",
+    "state":"Himachal Pradesh"
+  },
+  {
+    "name":"Jaipur",
+    "best_time":"November to March",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/jaipur\/",
+    "state":"Rajasthan"
+  },
+  {
+    "name":"Alleppey",
+    "best_time":"June to March",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/alleppey\/",
+    "state":"Kerala"
+  },
+  {
+    "name":"Andaman and Nicobar Islands",
+    "best_time":"October to Jun",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/andaman-nicobar-islands\/",
+    "state":"Andaman and Nicobar Islands (UT)"
+  },
+  {
+    "name":"Gulmarg",
+    "best_time":"October to June",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/gulmarg\/",
+    "state":"Jammu and Kashmir (UT)"
+  },
+  {
+    "name":"Srinagar",
+    "best_time":"April to October",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/srinagar\/",
+    "state":"Jammu and Kashmir (UT)"
+  },
+  {
+    "name":"Shillong",
+    "best_time":"September to May",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/shillong\/",
+    "state":"Meghalaya"
+  },
+  {
+    "name":"Kutch",
+    "best_time":"July to March",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/kutch\/",
+    "state":"Gujarat"
+  },
+  {
+    "name":"Rishikesh",
+    "best_time":"Throughout the year",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/rishikesh\/",
+    "state":"Uttarakhand"
+  },
+  {
+    "name":"Darjeeling",
+    "best_time":"February to March, September to December",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/darjeeling\/",
+    "state":"West Bengal"
+  },
+  {
+    "name":"Kodaikanal",
+    "best_time":"September to May",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/kodaikanal\/",
+    "state":"Tamil Nadu"
+  },
+  {
+    "name":"Ajanta and Ellora Caves",
+    "best_time":"June to March",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/ajanta-and-ellora-caves\/",
+    "state":"Maharashtra"
+  },
+  {
+    "name":"Coorg",
+    "best_time":"October to March",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/coorg\/",
+    "state":"Karnataka"
+  },
+  {
+    "name":"Ooty",
+    "best_time":"Throughout the year",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/ooty\/",
+    "state":"Tamil Nadu"
+  },
+  {
+    "name":"Ladakh",
+    "best_time":"April - Mid-July",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/ladakh\/",
+    "state":"Ladakh (UT)"
+  },
+  {
+    "name":"Mcleodganj",
+    "best_time":"October to June",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/mcleodganj\/",
+    "state":"Himachal Pradesh"
+  },
+  {
+    "name":"Hampi",
+    "best_time":"October to March",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/hampi\/",
+    "state":"Karnataka"
+  },
+  {
+    "name":"Tawang",
+    "best_time":"March - June; September - October",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/tawang\/",
+    "state":"Arunachal Pradesh"
+  },
+  {
+    "name":"Nainital",
+    "best_time":"Throughout the year",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/nainital\/",
+    "state":"Uttarakhand"
+  },
+  {
+    "name":"Shimla",
+    "best_time":"October to June",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/shimla\/",
+    "state":"Himachal Pradesh"
+  },
+  {
+    "name":"Mussoorie",
+    "best_time":"September to June",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/mussoorie\/",
+    "state":"Uttarakhand"
+  },
+  {
+    "name":"Khajjiar",
+    "best_time":"Throughout the year",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/khajjiar\/",
+    "state":"Himachal Pradesh"
+  },
+  {
+    "name":"Wayanad",
+    "best_time":"Throughout the year",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/wayanad\/",
+    "state":"Kerala"
+  },
+  {
+    "name":"Lakshadweep",
+    "best_time":"September to May",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/lakshadweep-islands\/",
+    "state":"Lakshadweep (UT)"
+  },
+  {
+    "name":"Varanasi",
+    "best_time":"October to March",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/varanasi\/",
+    "state":"Uttar Pradesh"
+  },
+  {
+    "name":"Agra",
+    "best_time":"October to March",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/agra\/",
+    "state":"Uttar Pradesh"
+  },
+  {
+    "name":"Goa",
+    "best_time":"October to March",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/goa\/",
+    "state":"Goa"
+  },
+  {
+    "name":"Amritsar",
+    "best_time":"October to March",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/amritsar\/",
+    "state":"Punjab"
+  },
+  {
+    "name":"Udaipur",
+    "best_time":"October to March",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/udaipur\/",
+    "state":"Rajasthan"
+  },
+  {
+    "name":"Delhi",
+    "best_time":"October to March",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/delhi\/",
+    "state":"Delhi (UT)"
+  },
+  {
+    "name":"Char Dham Yatra",
+    "best_time":"May - June, September - October",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/char-dham\/",
+    "state":"Multi-State (Uttarakhand)"
+  },
+  {
+    "name":"Mumbai",
+    "best_time":"October to February",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/mumbai\/",
+    "state":"Maharashtra"
+  },
+  {
+    "name":"Jaisalmer",
+    "best_time":"October to March",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/jaisalmer\/",
+    "state":"Rajasthan"
+  },
+  {
+    "name":"Jodhpur",
+    "best_time":"November to February",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/jodhpur\/",
+    "state":"Rajasthan"
+  },
+  {
+    "name":"Kolkata",
+    "best_time":"October to March",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/kolkata\/",
+    "state":"West Bengal"
+  },
+  {
+    "name":"Pondicherry",
+    "best_time":"October to March",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/pondicherry\/",
+    "state":"Puducherry (UT)"
+  },
+  {
+    "name":"Pahalgam",
+    "best_time":"Throughout the year",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/pahalgam\/",
+    "state":"Jammu and Kashmir (UT)"
+  },
+  {
+    "name":"Golden Triangle India",
+    "best_time":"October - March",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/golden-triangle-india\/",
+    "state":"Multi-State (Delhi"
+  },
+  {
+    "name":"Varkala",
+    "best_time":"October to February",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/varkala\/",
+    "state":"Kerala"
+  },
+  {
+    "name":"Honnavar",
+    "best_time":"October - March",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/honnavar\/",
+    "state":"Karnataka"
+  },
+  {
+    "name":"Kanyakumari",
+    "best_time":"October to February",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/kanyakumari\/",
+    "state":"Tamil Nadu"
+  },
+  {
+    "name":"Dalhousie",
+    "best_time":"Throughout the year",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/dalhousie\/",
+    "state":"Himachal Pradesh"
+  },
+  {
+    "name":"Vaishno Devi",
+    "best_time":"March to June",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/vaishno-devi\/",
+    "state":"Jammu and Kashmir (UT)"
+  },
+  {
+    "name":"Bangalore",
+    "best_time":"Throughout the year",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/bangalore\/",
+    "state":"Karnataka"
+  },
+  {
+    "name":"Chennai",
+    "best_time":"October to March",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/chennai\/",
+    "state":"Tamil Nadu"
+  },
+  {
+    "name":"Kochi",
+    "best_time":"July to April",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/kochi\/",
+    "state":"Kerala"
+  },
+  {
+    "name":"Rameshwaram",
+    "best_time":"Throughout the year",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/rameswaram\/",
+    "state":"Tamil Nadu"
+  },
+  {
+    "name":"Gokarna",
+    "best_time":"Throughout the year",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/gokarna\/",
+    "state":"Karnataka"
+  },
+  {
+    "name":"Havelock Island",
+    "best_time":"October to February",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/havelock-island\/",
+    "state":"Andaman and Nicobar Islands (UT)"
+  },
+  {
+    "name":"Haridwar",
+    "best_time":"Throughout the year",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/haridwar\/",
+    "state":"Uttarakhand"
+  },
+  {
+    "name":"Thekkady",
+    "best_time":"Throughout the year",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/thekkady\/",
+    "state":"Kerala"
+  },
+  {
+    "name":"Khajuraho",
+    "best_time":"July to March",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/khajuraho\/",
+    "state":"Madhya Pradesh"
+  },
+  {
+    "name":"Ujjain",
+    "best_time":"October to March",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/ujjain\/",
+    "state":"Madhya Pradesh"
+  },
+  {
+    "name":"Spiti Valley",
+    "best_time":"Mid May to Mid Oct",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/spiti\/",
+    "state":"Himachal Pradesh"
+  },
+  {
+    "name":"Bir Billing",
+    "best_time":"March - May; September - November",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/bir\/",
+    "state":"Himachal Pradesh"
+  },
+  {
+    "name":"Ranthambore",
+    "best_time":"October to Apr",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/ranthambore\/",
+    "state":"Rajasthan"
+  },
+  {
+    "name":"Prayagraj",
+    "best_time":"October to March",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/allahabad\/",
+    "state":"Uttar Pradesh"
+  },
+  {
+    "name":"Amarnath",
+    "best_time":"May - July",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/amarnath\/",
+    "state":"Jammu and Kashmir (UT)"
+  },
+  {
+    "name":"Hyderabad",
+    "best_time":"September to March",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/hyderabad\/",
+    "state":"Telangana"
+  },
+  {
+    "name":"Tirupati",
+    "best_time":"September to March",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/tirupati\/",
+    "state":"Andhra Pradesh"
+  },
+  {
+    "name":"Cherrapunji",
+    "best_time":"October to February",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/cherrapunjee\/",
+    "state":"Meghalaya"
+  },
+  {
+    "name":"Pachmarhi",
+    "best_time":"Throughout the year",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/pachmarhi\/",
+    "state":"Madhya Pradesh"
+  },
+  {
+    "name":"Mount Abu",
+    "best_time":"October to March",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/mount-abu\/",
+    "state":"Rajasthan"
+  },
+  {
+    "name":"Mysore",
+    "best_time":"Throughout the year",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/mysore\/",
+    "state":"Karnataka"
+  },
+  {
+    "name":"Jim Corbett National Park",
+    "best_time":"Mid October to Mid June",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/corbett-national-park\/",
+    "state":"Uttarakhand"
+  },
+  {
+    "name":"Lonavala",
+    "best_time":"Throughout the year",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/lonavala\/",
+    "state":"Maharashtra"
+  },
+  {
+    "name":"Parvati Valley",
+    "best_time":"October to June",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/parvati-valley\/",
+    "state":"Himachal Pradesh"
+  },
+  {
+    "name":"Kanha National Park",
+    "best_time":"October to June",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/kanha-national-park\/",
+    "state":"Madhya Pradesh"
+  },
+  {
+    "name":"Kasol",
+    "best_time":"October to June",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/kasol\/",
+    "state":"Himachal Pradesh"
+  },
+  {
+    "name":"Madurai",
+    "best_time":"October to March",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/madurai\/",
+    "state":"Tamil Nadu"
+  },
+  {
+    "name":"Bodh Gaya",
+    "best_time":"October to March",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/bodh-gaya\/",
+    "state":"Bihar"
+  },
+  {
+    "name":"Auli",
+    "best_time":"December - February",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/auli\/",
+    "state":"Uttarakhand"
+  },
+  {
+    "name":"Ahmedabad",
+    "best_time":"October to March",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/ahmedabad\/",
+    "state":"Gujarat"
+  },
+  {
+    "name":"Chandigarh",
+    "best_time":"August to March",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/chandigarh\/",
+    "state":"Chandigarh (UT)"
+  },
+  {
+    "name":"Kaziranga National Park",
+    "best_time":"October to June",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/kaziranga-national-park\/",
+    "state":"Assam"
+  },
+  {
+    "name":"Nashik",
+    "best_time":"July to March",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/nasik\/",
+    "state":"Maharashtra"
+  },
+  {
+    "name":"Alibaug",
+    "best_time":"November to March",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/alibag\/",
+    "state":"Maharashtra"
+  },
+  {
+    "name":"Mathura",
+    "best_time":"October to March",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/mathura\/",
+    "state":"Uttar Pradesh"
+  },
+  {
+    "name":"Nubra Valley",
+    "best_time":"June to September",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/nubra-valley\/",
+    "state":"Ladakh (UT)"
+  },
+  {
+    "name":"Jog Falls",
+    "best_time":"July to December",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/jog-falls\/",
+    "state":"Karnataka"
+  },
+  {
+    "name":"Pushkar",
+    "best_time":"October to March",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/pushkar\/",
+    "state":"Rajasthan"
+  },
+  {
+    "name":"Almora",
+    "best_time":"Throughout the year",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/almora\/",
+    "state":"Uttarakhand"
+  },
+  {
+    "name":"Shirdi",
+    "best_time":"July to March",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/shirdi\/",
+    "state":"Maharashtra"
+  },
+  {
+    "name":"Mahabaleshwar",
+    "best_time":"October to June",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/mahabaleshwar\/",
+    "state":"Maharashtra"
+  },
+  {
+    "name":"Shimoga (Shivamogga)",
+    "best_time":"July to December",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/shimoga\/",
+    "state":"Karnataka"
+  },
+  {
+    "name":"Visakhapatnam",
+    "best_time":"September to March",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/visakhapatnam\/",
+    "state":"Andhra Pradesh"
+  },
+  {
+    "name":"Jibhi",
+    "best_time":"March - June",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/jibhi\/",
+    "state":"Himachal Pradesh"
+  },
+  {
+    "name":"Pune",
+    "best_time":"July to March",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/pune\/",
+    "state":"Maharashtra"
+  },
+  {
+    "name":"Vrindavan",
+    "best_time":"October to March",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/vrindavan\/",
+    "state":"Uttar Pradesh"
+  },
+  {
+    "name":"Coimbatore",
+    "best_time":"September to March",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/coimbatore\/",
+    "state":"Tamil Nadu"
+  },
+  {
+    "name":"Lucknow",
+    "best_time":"October to March",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/lucknow\/",
+    "state":"Uttar Pradesh"
+  },
+  {
+    "name":"Dharamshala",
+    "best_time":"October to June",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/dharamsala\/",
+    "state":"Himachal Pradesh"
+  },
+  {
+    "name":"Gwalior",
+    "best_time":"July to March",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/gwalior\/",
+    "state":"Madhya Pradesh"
+  },
+  {
+    "name":"Khandala",
+    "best_time":"Throughout the year",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/khandala\/",
+    "state":"Maharashtra"
+  },
+  {
+    "name":"Kovalam",
+    "best_time":"September to March",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/kovalam\/",
+    "state":"Kerala"
+  },
+  {
+    "name":"Madikeri",
+    "best_time":"February to September",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/madikeri\/",
+    "state":"Karnataka"
+  },
+  {
+    "name":"Matheran",
+    "best_time":"Throughout the year",
+    "description":"Popular tourist destination in India",
+    "url":"https:\/\/www.holidify.com\/places\/matheran\/",
+    "state":"Maharashtra"
+  }
+]
