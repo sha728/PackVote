@@ -3,7 +3,8 @@
 .env.*
 
 # Secrets (Google keys, API credentials)
-*.json
+# Ignore secrets only
+*.secret.json
 !data/**/*.json
 
 # Python
@@ -20,3 +21,4 @@ node_modules/
 # OS
 .DS_Store
 Thumbs.db
+packvote-*.json
